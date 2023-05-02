@@ -5,12 +5,12 @@
     "yearsOfExperience": 8,
     "numberOfRecipes": 50,
     "likes": 200,
-    "photo": "https://example.com/maggie-johnson.jpg",
+    "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
         "recipeName": "Beef Bhuna",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/NrW3PSq.jpg",
+        "photo": "https://cdn-fjknb.nitrocdn.com/sYJEeGkHVBiftWuTfZsKGWIHyaufcHUS/assets/static/optimized/rev-612f1f8/wp-content/uploads/2022/04/Beef-Kala-Bhuna-Recipe.jpg",
         "ingredients": [
           "Beef, sliced into thin pieces (500g)",
           "Onion, finely chopped (2 cups)",
@@ -30,7 +30,7 @@
       {
         "recipeName": "Shorshe Ilish",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/5i6gl5G.jpg",
+        "photo": "https://crazymasalafood.com/wp-content/images/2022/09/1.-Bhapa-Ilish.png.webp",
         "ingredients": [
           "Hilsa fish (4 pieces)",
           "Mustard paste (2 tbsp)",
@@ -43,7 +43,7 @@
       {
         "recipeName": "Chana Masala",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/PcKgQ6B.jpg",
+        "photo": "https://carameltintedlife.com/wp-content/uploads/2021/11/CHANNA-MASALA-1.jpg",
         "ingredients": [
           "Chickpeas (1 cup, soaked overnight)",
           "Onion, finely chopped (1 cup)",
@@ -70,12 +70,12 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 75,
     "likes": 500,
-    "photo": "https://example.com/carlos-gomez.jpg",
+    "photo": "https://images.pexels.com/photos/4669229/pexels-photo-4669229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
         "recipeName": "Shemai",
         "type": "Dessert",
-        "photo": "https://i.imgur.com/HvohrNr.jpg",
+        "photo": "https://premiumsweets.ca/uploads/services/4349204.jpg",
         "ingredients": [
           "Shemai (100g)",
           "Milk (1 liter)",
@@ -89,7 +89,7 @@
       {
         "recipeName": "Aloo Potol Posto",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/25O1N9H.jpg",
+        "photo": "https://img.freepik.com/premium-photo/aloo-potol-dalna-recipe-is-traditional-sabzi-from-bengal-made-with-potato-pointed-gourd_466689-86440.jpg?w=1800",
         "ingredients": [
           "Potatoes, cut into cubes (2 cups)",
           "Parwal (pointed gourd), cut into pieces (2 cups)",
@@ -107,7 +107,7 @@
       {
         "recipeName": "Mishti Doi",
         "type": "Dessert",
-        "photo": "https://i.imgur.com/d2drZuF.jpg",
+        "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2022/08/Mishti-doi.jpg",
         "ingredients": ["Milk (1 liter)", "Sugar (1 cup)", "Yogurt (2 tbsp)"]
       }
     ]
@@ -119,12 +119,12 @@
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
     "likes": 100,
-    "photo": "https://example.com/jessica-lee.jpg",
+    "photo": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
         "recipeName": "Shorshe Ilish",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/9eM76mD.jpg",
+        "photo": "https://crazymasalafood.com/wp-content/images/2022/09/1.-Bhapa-Ilish.png.webp",
         "ingredients": [
           "Hilsa fish, cut into pieces (4-5 pieces)",
           "Onion, finely chopped (1 cup)",
@@ -143,7 +143,7 @@
       {
         "recipeName": "Beguni",
         "type": "Snack",
-        "photo": "https://i.imgur.com/cLmyhvu.jpg",
+        "photo": "https://i.ndtvimg.com/i/2017-12/beguni_620x330_71513660577.jpg",
         "ingredients": [
           "Eggplant, sliced (2 cups)",
           "Chickpea flour (1 cup)",
@@ -158,7 +158,7 @@
       {
         "recipeName": "Chanar Dalna",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/12LMzwv.jpg",
+        "photo": "https://www.spicypunch.com/wp-content/uploads/2019/11/chanar-dalna.jpg",
         "ingredients": [
           "Paneer (cottage cheese), cut into cubes (2 cups)",
           "Potatoes, cut into cubes (1 cup)",
@@ -185,12 +185,12 @@
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
     "likes": 300,
-    "photo": "https://example.com/ahmad-patel.jpg",
+    "photo": "https://images.pexels.com/photos/8879388/pexels-photo-8879388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
         "recipeName": "Jorda",
         "type": "Dessert",
-        "photo": "https://i.imgur.com/yTApTkn.jpg",
+        "photo": "https://img-global.cpcdn.com/recipes/06dc5d439072383c/1280x1280sq70/photo.webp",
         "ingredients": [
           "Rice (1 cup)",
           "Jaggery (1 cup)",
@@ -204,7 +204,7 @@
       {
         "recipeName": "Chingri Malai Curry",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/PMUsGV1.jpg",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-s/0d/5e/88/1d/galda-chingri-malai-curry.jpg",
         "ingredients": [
           "Prawns, deveined and cleaned (500g)",
           "Onion, finely chopped (1 cup)",
@@ -225,7 +225,7 @@
       {
         "recipeName": "Dal Bhuna",
         "type": "Main Course",
-        "photo": "https://i.imgur.com/pUgjKU5.jpg",
+        "photo": "https://media-cdn2.greatbritishchefs.com/media/dpiigoaq/img85513.whqc_1536x1024q90.webp",
         "ingredients": [
           "Masoor dal (red lentils), washed and soaked (1 cup)",
           "Onion, finely chopped (1 cup)",
@@ -252,27 +252,40 @@
     "yearsOfExperience": 10,
     "numberOfRecipes": 40,
     "likes": 150,
-    "photo": "https://example.com/sophie-kim.jpg",
+    "photo": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_192445.jpg",
     "recipe": [
       {
-        "recipeName": "Spaghetti Carbonara",
-        "type": "Main Course",
-        "photo": "https://i.imgur.com/VWV7YHe.jpg",
+        "recipeName": "biriany",
+        "type": "rice",
+        "photo": "https://www.foodandwine.com/thmb/1ZX-xU4rye8ws10LELAAPji6lWs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hd-fw200304_101spaghetti-3e165ba8cd44491fa3357b6ba944bdbe.jpg",
         "ingredients": [
-          "Spaghetti pasta (500g)",
-          "Bacon, chopped (200g)",
-          "Egg yolks (4)",
-          "Parmesan cheese, grated (1 cup)",
-          "Garlic cloves, minced (2-3)",
-          "Salt (to taste)",
-          "Black pepper, freshly ground (to taste)",
-          "Olive oil (2 tbsp)"
+          "2 cups of long grain basmati rice",
+          "1 lb of chicken, cut into pieces",
+          "1/2 cup of plain yogurt",
+          "2 onions, sliced thinly",
+          "4 cloves of garlic, minced",
+          "1 tablespoon of grated ginger",
+          "1 cinnamon stick",
+          "4 green cardamom pods",
+          "4 whole cloves",
+          "1 bay leaf",
+          "1 teaspoon of cumin seeds",
+          "1 teaspoon of coriander powder",
+          "1/2 teaspoon of turmeric powder",
+          "1/2 teaspoon of chili powder",
+          "1/2 teaspoon of garam masala",
+          "1/4 cup of vegetable oil",
+          "2 tablespoons of ghee",
+          "2 cups of water",
+          "Salt to taste",
+          "1/2 cup of chopped cilantro",
+          "1/2 cup of fried onions (birista)"
         ]
       },
       {
         "recipeName": "Chicken Tikka Masala",
-        "type": "Main Course",
-        "photo": "https://i.imgur.com/cCYwcnH.jpg",
+        "type": "chicken",
+        "photo": "https://culinaryginger.com/wp-content/uploads/Chicken-tikka-masala-5-copy.jpg",
         "ingredients": [
           "Boneless chicken breasts, cut into bite-size pieces (500g)",
           "Yogurt (1 cup)",
@@ -294,16 +307,18 @@
         ]
       },
       {
-        "recipeName": "Tiramisu",
-        "type": "Dessert",
-        "photo": "https://i.imgur.com/g0y0MS7.jpg",
+        "recipeName": "Phirni",
+        "type": "dessert",
+        "photo": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/08/phirni-1.jpg",
         "ingredients": [
-          "Ladyfingers cookies (24)",
-          "Mascarpone cheese (500g)",
-          "Egg yolks (4)",
-          "Granulated sugar (1/2 cup)",
-          "Strong brewed espresso (1 cup)",
-          "Cocoa powder (2 tbsp)"
+          "1 liter of full-fat milk",
+          "100g of rice flour",
+          "150g of sugar",
+          "1 teaspoon of rose water",
+          "A pinch of saffron strands",
+          "1 tablespoon of chopped pistachios",
+          "1 tablespoon of chopped almonds",
+          "1 tablespoon of chopped cashew nuts"
         ]
       }
     ]
@@ -315,12 +330,12 @@
     "yearsOfExperience": 20,
     "numberOfRecipes": 100,
     "likes": 1000,
-    "photo": "https://example.com/david-hernandez.jpg",
+    "photo": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg",
     "recipe": [
       {
         "recipeName": "Beef Stroganoff",
-        "type": "Main Course",
-        "photo": "https://i.imgur.com/N3V7zJ6.jpg",
+        "type": "beef",
+        "photo": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2Farchive%2Fe1ea1acf00ff5d98f8deed1b2c8223af59a5c09c",
         "ingredients": [
           "Beef sirloin, cut into thin strips (500g)",
           "Onion, chopped (1)",
@@ -339,8 +354,8 @@
       },
       {
         "recipeName": "Chicken Adobo",
-        "type": "Main Course",
-        "photo": "https://i.imgur.com/rU0j6UZ.jpg",
+        "type": "chicken",
+        "photo": "https://www.seriouseats.com/thmb/x7QPyXmkvnnXt98V814URt7duhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__10__20191023-chicken-adobo-vicky-wasik-19-12ce105a2e1a44dfb1e2673775118064.jpg",
         "ingredients": [
           "Chicken thighs (8)",
           "Garlic cloves, minced (4-5)",
@@ -356,7 +371,7 @@
       {
         "recipeName": "Key Lime Pie",
         "type": "Dessert",
-        "photo": "https://i.imgur.com/vVCvG2C.jpg",
+        "photo": "https://www.rachaelrayshow.com/sites/default/files/styles/content_full/public/images/2021-05/key-lime-pie.jpg?itok=YnaMUV2b",
         "ingredients": [
           "Graham cracker crust (9-inch)",
           "Sweetened condensed milk (1 can)",
