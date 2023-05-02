@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "chefName": "Tommy Miah",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 50,
+    "likes": 200,
+    "photo": "https://example.com/maggie-johnson.jpg",
+    "recipe": [
+      {
+        "recipeName": "Beef Bhuna",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/NrW3PSq.jpg",
+        "ingredients": [
+          "Beef, sliced into thin pieces (500g)",
+          "Onion, finely chopped (2 cups)",
+          "Garlic paste (2 tbsp)",
+          "Ginger paste (2 tbsp)",
+          "Green chili, finely chopped (2-3)",
+          "Red chili powder (1 tsp)",
+          "Coriander powder (2 tsp)",
+          "Turmeric powder (1 tsp)",
+          "Cumin powder (1 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (3 tbsp)",
+          "Water (1 cup)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      },
+      {
+        "recipeName": "Shorshe Ilish",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/5i6gl5G.jpg",
+        "ingredients": [
+          "Hilsa fish (4 pieces)",
+          "Mustard paste (2 tbsp)",
+          "Turmeric powder (1 tsp)",
+          "Salt (to taste)",
+          "Green chili, slit (4-5)",
+          "Mustard oil (4 tbsp)"
+        ]
+      },
+      {
+        "recipeName": "Chana Masala",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/PcKgQ6B.jpg",
+        "ingredients": [
+          "Chickpeas (1 cup, soaked overnight)",
+          "Onion, finely chopped (1 cup)",
+          "Tomatoes, finely chopped (1 cup)",
+          "Ginger paste (1 tbsp)",
+          "Garlic paste (1 tbsp)",
+          "Green chili, finely chopped (2-3)",
+          "Red chili powder (1 tsp)",
+          "Coriander powder (1 tsp)",
+          "Cumin powder (1 tsp)",
+          "Garam masala powder (1 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (3 tbsp)",
+          "Water (2 cups)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "chefName": "Nigella Rahman",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 75,
+    "likes": 500,
+    "photo": "https://example.com/carlos-gomez.jpg",
+    "recipe": [
+      {
+        "recipeName": "Shemai",
+        "type": "Dessert",
+        "photo": "https://i.imgur.com/HvohrNr.jpg",
+        "ingredients": [
+          "Shemai (100g)",
+          "Milk (1 liter)",
+          "Sugar (1 cup)",
+          "Cardamom powder (1/2 tsp)",
+          "Raisins (1/4 cup)",
+          "Cashew nuts (1/4 cup)",
+          "Cooking oil (2 tbsp)"
+        ]
+      },
+      {
+        "recipeName": "Aloo Potol Posto",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/25O1N9H.jpg",
+        "ingredients": [
+          "Potatoes, cut into cubes (2 cups)",
+          "Parwal (pointed gourd), cut into pieces (2 cups)",
+          "Onion, finely chopped (1 cup)",
+          "Poppy seeds (2 tbsp)",
+          "Green chili, finely chopped (2-3)",
+          "Turmeric powder (1 tsp)",
+          "Red chili powder (1 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (4 tbsp)",
+          "Water (1 cup)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      },
+      {
+        "recipeName": "Mishti Doi",
+        "type": "Dessert",
+        "photo": "https://i.imgur.com/d2drZuF.jpg",
+        "ingredients": ["Milk (1 liter)", "Sugar (1 cup)", "Yogurt (2 tbsp)"]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "chefName": "Shahin Alam ",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 30,
+    "likes": 100,
+    "photo": "https://example.com/jessica-lee.jpg",
+    "recipe": [
+      {
+        "recipeName": "Shorshe Ilish",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/9eM76mD.jpg",
+        "ingredients": [
+          "Hilsa fish, cut into pieces (4-5 pieces)",
+          "Onion, finely chopped (1 cup)",
+          "Garlic paste (1 tbsp)",
+          "Ginger paste (1 tbsp)",
+          "Green chili, finely chopped (2-3)",
+          "Mustard paste (3 tbsp)",
+          "Turmeric powder (1 tsp)",
+          "Red chili powder (1 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (4 tbsp)",
+          "Water (1 cup)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      },
+      {
+        "recipeName": "Beguni",
+        "type": "Snack",
+        "photo": "https://i.imgur.com/cLmyhvu.jpg",
+        "ingredients": [
+          "Eggplant, sliced (2 cups)",
+          "Chickpea flour (1 cup)",
+          "Rice flour (1/4 cup)",
+          "Turmeric powder (1/2 tsp)",
+          "Red chili powder (1/2 tsp)",
+          "Salt (to taste)",
+          "Water (1/2 cup)",
+          "Cooking oil (for deep frying)"
+        ]
+      },
+      {
+        "recipeName": "Chanar Dalna",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/12LMzwv.jpg",
+        "ingredients": [
+          "Paneer (cottage cheese), cut into cubes (2 cups)",
+          "Potatoes, cut into cubes (1 cup)",
+          "Onion, finely chopped (1 cup)",
+          "Tomatoes, finely chopped (1 cup)",
+          "Green chili, finely chopped (2-3)",
+          "Ginger paste (1 tsp)",
+          "Turmeric powder (1 tsp)",
+          "Cumin powder (1 tsp)",
+          "Coriander powder (1 tsp)",
+          "Garam masala powder (1/2 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (4 tbsp)",
+          "Water (1 cup)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "chefName": "Munira Siddiqui",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 60,
+    "likes": 300,
+    "photo": "https://example.com/ahmad-patel.jpg",
+    "recipe": [
+      {
+        "recipeName": "Jorda",
+        "type": "Dessert",
+        "photo": "https://i.imgur.com/yTApTkn.jpg",
+        "ingredients": [
+          "Rice (1 cup)",
+          "Jaggery (1 cup)",
+          "Coconut milk (1/2 cup)",
+          "Coconut flakes (1/4 cup)",
+          "Green cardamom (3-4 pods)",
+          "Cinnamon stick (1)",
+          "Water (2 cups)"
+        ]
+      },
+      {
+        "recipeName": "Chingri Malai Curry",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/PMUsGV1.jpg",
+        "ingredients": [
+          "Prawns, deveined and cleaned (500g)",
+          "Onion, finely chopped (1 cup)",
+          "Garlic paste (1 tbsp)",
+          "Ginger paste (1 tbsp)",
+          "Green chili, finely chopped (2-3)",
+          "Coconut milk (1 cup)",
+          "Turmeric powder (1 tsp)",
+          "Red chili powder (1 tsp)",
+          "Coriander powder (1 tsp)",
+          "Garam masala powder (1/2 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (4 tbsp)",
+          "Water (1 cup)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      },
+      {
+        "recipeName": "Dal Bhuna",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/pUgjKU5.jpg",
+        "ingredients": [
+          "Masoor dal (red lentils), washed and soaked (1 cup)",
+          "Onion, finely chopped (1 cup)",
+          "Tomatoes, finely chopped (1 cup)",
+          "Green chili, finely chopped (2-3)",
+          "Ginger paste (1 tsp)",
+          "Garlic paste (1 tsp)",
+          "Turmeric powder (1 tsp)",
+          "Cumin powder (1 tsp)",
+          "Coriander powder (1 tsp)",
+          "Red chili powder (1 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (4 tbsp)",
+          "Water (3 cups)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "chefName": "Tony Khan ",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 40,
+    "likes": 150,
+    "photo": "https://example.com/sophie-kim.jpg",
+    "recipe": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/VWV7YHe.jpg",
+        "ingredients": [
+          "Spaghetti pasta (500g)",
+          "Bacon, chopped (200g)",
+          "Egg yolks (4)",
+          "Parmesan cheese, grated (1 cup)",
+          "Garlic cloves, minced (2-3)",
+          "Salt (to taste)",
+          "Black pepper, freshly ground (to taste)",
+          "Olive oil (2 tbsp)"
+        ]
+      },
+      {
+        "recipeName": "Chicken Tikka Masala",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/cCYwcnH.jpg",
+        "ingredients": [
+          "Boneless chicken breasts, cut into bite-size pieces (500g)",
+          "Yogurt (1 cup)",
+          "Onion, finely chopped (1 cup)",
+          "Garlic paste (1 tbsp)",
+          "Ginger paste (1 tbsp)",
+          "Green chili, finely chopped (2-3)",
+          "Tomatoes, pureed (2 cups)",
+          "Heavy cream (1/2 cup)",
+          "Turmeric powder (1 tsp)",
+          "Cumin powder (1 tsp)",
+          "Coriander powder (1 tsp)",
+          "Red chili powder (1 tsp)",
+          "Garam masala powder (1 tsp)",
+          "Salt (to taste)",
+          "Cooking oil (4 tbsp)",
+          "Water (1 cup)",
+          "Fresh coriander leaves, finely chopped (for garnish)"
+        ]
+      },
+      {
+        "recipeName": "Tiramisu",
+        "type": "Dessert",
+        "photo": "https://i.imgur.com/g0y0MS7.jpg",
+        "ingredients": [
+          "Ladyfingers cookies (24)",
+          "Mascarpone cheese (500g)",
+          "Egg yolks (4)",
+          "Granulated sugar (1/2 cup)",
+          "Strong brewed espresso (1 cup)",
+          "Cocoa powder (2 tbsp)"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "chefName": "Tareq Taylor",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 100,
+    "likes": 1000,
+    "photo": "https://example.com/david-hernandez.jpg",
+    "recipe": [
+      {
+        "recipeName": "Beef Stroganoff",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/N3V7zJ6.jpg",
+        "ingredients": [
+          "Beef sirloin, cut into thin strips (500g)",
+          "Onion, chopped (1)",
+          "Garlic cloves, minced (2-3)",
+          "Mushrooms, sliced (500g)",
+          "Sour cream (1 cup)",
+          "Beef broth (1 cup)",
+          "Egg noodles (500g)",
+          "Butter (4 tbsp)",
+          "All-purpose flour (2 tbsp)",
+          "Worcestershire sauce (2 tbsp)",
+          "Dijon mustard (1 tbsp)",
+          "Salt (to taste)",
+          "Black pepper, freshly ground (to taste)"
+        ]
+      },
+      {
+        "recipeName": "Chicken Adobo",
+        "type": "Main Course",
+        "photo": "https://i.imgur.com/rU0j6UZ.jpg",
+        "ingredients": [
+          "Chicken thighs (8)",
+          "Garlic cloves, minced (4-5)",
+          "Soy sauce (1/2 cup)",
+          "White vinegar (1/2 cup)",
+          "Bay leaves (3-4)",
+          "Black peppercorns (10-12)",
+          "Brown sugar (1 tbsp)",
+          "Water (1/2 cup)",
+          "Cooking oil (2 tbsp)"
+        ]
+      },
+      {
+        "recipeName": "Key Lime Pie",
+        "type": "Dessert",
+        "photo": "https://i.imgur.com/vVCvG2C.jpg",
+        "ingredients": [
+          "Graham cracker crust (9-inch)",
+          "Sweetened condensed milk (1 can)",
+          "Egg yolks (4)",
+          "Key lime juice (1/2 cup)",
+          "Key lime zest (1 tbsp)",
+          "Whipped cream (for topping)"
+        ]
+      }
+    ]
+  }
+]
