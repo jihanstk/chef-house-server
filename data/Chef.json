@@ -1,10 +1,12 @@
 [
   {
     "id": 1,
-    "chefName": "Tommy Miah",
+    "chefName": "Tommy hossen",
     "yearsOfExperience": 8,
     "numberOfRecipes": 50,
-    "likes": 200,
+    "likes": 2000,
+    "bio": "Tommy hossen is a renowned Bangladeshi chef who has been delighting diners with her unique and delicious creations for over a decade. his passion for cooking began at a young age and has only grown stronger over the years.",
+
     "photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
@@ -70,6 +72,7 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 75,
     "likes": 500,
+    "bio": "Nigella Rahman is a master of grilled meats and has gained a reputation for his mouth-watering kebabs and tikkas. He has been perfecting his techniques for over a decade, and his dedication to his craft has earned him numerous accolades. ",
     "photo": "https://images.pexels.com/photos/4669229/pexels-photo-4669229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
@@ -125,7 +128,8 @@
     "chefName": "Shahin Alam ",
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
-    "likes": 100,
+    "likes": 10000,
+    "bio": "Shahin Alam is a master of grilled meats and has gained a reputation for his mouth-watering kebabs and tikkas. He has been perfecting his techniques for over a decade, and his dedication to his craft has earned him numerous accolades. ",
     "photo": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
@@ -191,7 +195,8 @@
     "chefName": "Munira Siddiqui",
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
-    "likes": 300,
+    "likes": 3000,
+    "bio": "Munira Siddiqui is a master of grilled meats and has gained a reputation for his mouth-watering kebabs and tikkas. He has been perfecting his techniques for over a decade, and his dedication to his craft has earned him numerous accolades. ",
     "photo": "https://images.pexels.com/photos/8879388/pexels-photo-8879388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "recipe": [
       {
@@ -258,7 +263,8 @@
     "chefName": "Tony Khan ",
     "yearsOfExperience": 10,
     "numberOfRecipes": 40,
-    "likes": 150,
+    "likes": 1500,
+    "bio": "Tony Khan is a master of grilled meats and has gained a reputation for his mouth-watering kebabs and tikkas. He has been perfecting his techniques for over a decade, and his dedication to his craft has earned him numerous accolades. ",
     "photo": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_192445.jpg",
     "recipe": [
       {
@@ -336,7 +342,8 @@
     "chefName": "Tareq Taylor",
     "yearsOfExperience": 20,
     "numberOfRecipes": 100,
-    "likes": 1000,
+    "likes": 1050,
+    "bio": "Tareq Taylor is a master of grilled meats and has gained a reputation for his mouth-watering kebabs and tikkas. He has been perfecting his techniques for over a decade, and his dedication to his craft has earned him numerous accolades. ",
     "photo": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg",
     "recipe": [
       {
