@@ -108,7 +108,14 @@
         "recipeName": "Mishti Doi",
         "type": "Dessert",
         "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2022/08/Mishti-doi.jpg",
-        "ingredients": ["Milk (1 liter)", "Sugar (1 cup)", "Yogurt (2 tbsp)"]
+        "ingredients": [
+          "Milk (1 liter)",
+          "Sugar (1 cup)",
+          "Yogurt (2 tbsp)",
+          "Raisins (1/4 cup)",
+          "Cashew nuts (1/4 cup)",
+          "Cooking oil (2 tbsp)"
+        ]
       }
     ]
   },
